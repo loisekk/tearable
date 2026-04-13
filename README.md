@@ -13,17 +13,17 @@
 
 <br/>
 
-```
+<pre align="center">
 ░█████╗░██╗░░░░░░█████╗░████████╗██╗░░██╗
 ██╔══██╗██║░░░░░██╔══██╗╚══██╔══╝██║░░██║
 ██║░░╚═╝██║░░░░░██║░░██║░░░██║░░░███████║
 ██║░░██╗██║░░░░░██║░░██║░░░██║░░░██╔══██║
 ╚█████╔╝███████╗╚█████╔╝░░░██║░░░██║░░██║
 ░╚════╝░╚══════╝░╚════╝░░░░╚═╝░░░╚═╝░░╚═╝
-```
+</pre>
 
-*Three forces. One fabric. Infinite tears.*  
-Production-grade cloth simulation with Verlet integration, real-time tearing, wind dynamics, and tension-aware rendering.
+<p align="center"><em>Three forces. One fabric. Infinite tears.</em><br/>
+Production-grade cloth simulation with Verlet integration, real-time tearing, wind dynamics, and tension-aware rendering.</p>
 
 </div>
 
