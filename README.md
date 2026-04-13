@@ -66,6 +66,7 @@ pip install -r requirements.txt
 ```bash
 python cloth_simulation.py
 ```
+![Cloth Simulation Demo](./cloth_simulation_demo.gif)
 <p align="center">
   <img src="https://raw.githubusercontent.com/loisekk/tearable/main/cloth_simulation_demo.gif" width="80%">
 </p>
