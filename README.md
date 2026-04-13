@@ -67,9 +67,8 @@ pip install -r requirements.txt
 python cloth_simulation.py
 ```
 <p align="center">
-  <img src="cloth_simulation_demo.gif" alt="Cloth Simulation Demo" width="80%"/>
+  <img src="./cloth_simulation_demo.gif" width="600"/>
 </p>
-
 ---
 
 ## Controls
