@@ -68,9 +68,9 @@ python cloth_simulation.py
 ```
 ![Cloth Simulation Demo](./cloth_simulation_demo.gif)
 <p align="center">
-  <img src="./assets/cloth_simulation_demo.gif" width="600"/>
+  <img src="./assets/cloth_simulation_demo.gif" width="800"/>
 </p>
----
+
 
 ## Controls
 
